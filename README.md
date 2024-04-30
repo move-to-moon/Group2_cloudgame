@@ -1,7 +1,7 @@
 # Group2_cloudgame
-Local Load Testing
+# Local Load Testing
 In this section, we will test the computer's load and network usage when running two games locally and in the cloud.
-1. The tools we used
+# 1. The tools we used
 We used the MSI Afterburner tool to monitor the computer's load. MSI Afterburner is a renowned graphics card utility that allows users to overclock and monitor their system's performance. It provides real-time data on GPU temperature, usage, frame rates and other information to monitor the computer’s real-time load. Moreover, the monitoring data from MSI Afterburner can be exported and further processed to convert it into the CSV file format for analysis.
 
  	
@@ -12,8 +12,9 @@ We also used GlassWire software to monitor the network traffic used by each appl
 The image above shows the traffic monitoring interface of GlassWire software. It can display real-time traffic usage for each application and record the traffic usage over a period of time.
 
 
-2. Testing games running locally and in the cloud
+# 2. Testing games running locally and in the cloud
 We selected two games, Honkai: Star Rail and Alan wake 2, to test their impact on computer load when running locally and in the cloud.
+
 The testing process is as follows:
 
 1. Run the game locally and record the computer load during a similar duration and similar scenes.
