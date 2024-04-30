@@ -5,7 +5,8 @@ In this section, we will test the computer's load and network usage when running
 We used the MSI Afterburner tool to monitor the computer's load. MSI Afterburner is a renowned graphics card utility that allows users to overclock and monitor their system's performance. It provides real-time data on GPU temperature, usage, frame rates and other information to monitor the computer’s real-time load. Moreover, the monitoring data from MSI Afterburner can be exported and further processed to convert it into the CSV file format for analysis.
 
  	
-The image in the top left corner is the main interface of MSI Afterburner. The image on the right side shows the interface for setting up monitoring features. The image in the bottom left corner is the log interface of MSI Afterburner.
+The image  is the main interface of MSI Afterburner. The second image shows the interface for setting up monitoring features. The image in the bottom left corner is the log interface of MSI Afterburner.
+![示例图片](2.jpg.png)
 ![示例图片](1.jpg.png)
 We also used GlassWire software to monitor the network traffic used by each application. GlassWire is a network security application that provides users with the ability to monitor and manage their internet activity. It visualizes past and present network activity in an easy-to-understand graph, alerts users to potential threats, and manages firewall settings.
  
