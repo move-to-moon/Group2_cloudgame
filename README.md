@@ -15,6 +15,7 @@ The image above shows the traffic monitoring interface of GlassWire software. It
 2. Testing games running locally and in the cloud
 We selected two games, Honkai: Star Rail and Alan wake 2, to test their impact on computer load when running locally and in the cloud.
 The testing process is as follows:
+
 1. Run the game locally and record the computer load during a similar duration and similar scenes.
 2. Run the game using cloud gaming and record the computer load during a similar duration and similar scenes.
 3. Export the load information from MSI Afterburner logs and process it to generate CSV files for both local and cloud gaming scenarios.
