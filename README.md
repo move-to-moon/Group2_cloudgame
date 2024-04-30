@@ -6,7 +6,7 @@ We used the MSI Afterburner tool to monitor the computer's load. MSI Afterburner
 
  	
 The image in the top left corner is the main interface of MSI Afterburner. The image on the right side shows the interface for setting up monitoring features. The image in the bottom left corner is the log interface of MSI Afterburner.
-
+![示例图片](1.jpg.png)
 We also used GlassWire software to monitor the network traffic used by each application. GlassWire is a network security application that provides users with the ability to monitor and manage their internet activity. It visualizes past and present network activity in an easy-to-understand graph, alerts users to potential threats, and manages firewall settings.
  
 The image above shows the traffic monitoring interface of GlassWire software. It can display real-time traffic usage for each application and record the traffic usage over a period of time.
